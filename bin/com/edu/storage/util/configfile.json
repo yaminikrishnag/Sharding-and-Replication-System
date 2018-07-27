@@ -1,0 +1,21 @@
+{
+ 	 "destdir1": "/Users/bmk/ShardStorageServer1/",
+ 	 "destdir2": "/Users/bmk/ShardStorageServer2/",
+ 	 "destdir3": "/Users/bmk/ShardStorageServer3/",
+  	 "homedir": "/Users/bmk/SourceStorageLocation/",
+	 "shard1ipaddress":"127.0.0.1",
+	 "shard1portnumber":25000,
+	 "shard2ipaddress":"127.0.0.1",
+	 "shard2portnumber":25001,	 
+	 "shard3ipaddress":"127.0.0.1",
+	 "shard3portnumber":25002,
+	 "shard1ipaddressshardingserver":"127.0.0.1",
+	 "shard1portnumbershardingserver":25015,
+	 "shard2ipaddressshardingserver":"127.0.0.1",
+	 "shard2portnumbershardingserver":25016,	 
+	 "shard3ipaddressshardingserver":"127.0.0.1",
+	 "shard3portnumbershardingserver":25017,
+	 "numberofservers":3,
+	 "fileName":"sample.txt",
+	 "metadatafile":"/Users/bmk/SourceStorageLocation/metadatafile.txt"
+}
